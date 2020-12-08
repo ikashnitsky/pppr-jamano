@@ -5,7 +5,9 @@ Re-analysis for the post-publication peer-review of Christakis, Van Cleve, and Z
 **Gideon Meyerowitz-Katz**, MPH, University of Wollongong, Wollongong, NSW Australia, [@GidMK](<https://twitter.com/GidMK>)   
 **Ilya Kashnitsky**, PhD, University of Southern Denmark, Odense, Denmark, [@ikashnitsky](<https://twitter.com/ikashnitsky>)
 
-# [FULL TEXT](/gidmk-ikashnitsky-response.pdf)
+# [FULL TEXT](https://doi.org/10.31219/osf.io/9yqxw)
+
+# [featured in The Guardian](https://www.theguardian.com/science/2020/dec/08/coronavirus-study-that-found-us-school-closures-cut-life-expectancy-criticised-by-epidemiologist)
 
 ## **Abstract**
 
